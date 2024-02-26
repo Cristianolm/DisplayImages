@@ -1,0 +1,35 @@
+h1,
+h2,
+h3 {
+  color: white;
+}
+body {
+  background-color: black;
+}
+
+.sun {
+  height: 30px;
+  widht: 30px;
+  background-repeat: no-repeat;
+  background-image: url("moon.svg");
+}
+.moon {
+  height: 30px;
+  widht: 30px;
+  background-repeat: no-repeat;
+  background-image: url("sun.svg");
+}
+
+.sunAssets {
+  height: 30px;
+  widht: 30px;
+  background-repeat: no-repeat;
+  background-image: url("assets/images/moon.svg");
+}
+
+.moonAssets {
+  height: 30px;
+  widht: 30px;
+  background-repeat: no-repeat;
+  background-image: url("assets/images/sun.svg");
+}
